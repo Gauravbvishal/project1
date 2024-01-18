@@ -1,1 +1,1 @@
-# <h1>Project1 of cuvetee</h1>
+# <h1>Project1</h1>
